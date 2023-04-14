@@ -1,7 +1,7 @@
 #include <Novice.h>
 #include <math.h>
 
-const char kWindowTitle[] = "LE2B_02_イソガイユウト_タイトル";
+const char kWindowTitle[] = "LE2B_02_イソガイユウト_MT3_00_01";
 
 struct Vector3 {
 	float x, y, z;
